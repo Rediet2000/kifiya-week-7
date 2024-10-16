@@ -14,7 +14,8 @@ logging.basicConfig(
 
 
 # Your API ID and API Hash
-API_ID = ' 26058239'  # Replace with your API ID
+
+API_ID = ' 26058239'  # Replace with your API ID # Replace with your API ID
 API_HASH = '92a70c2dc39fe068edfebf8c9f7a0fbf'  # Replace with your API Hash
 # Use your phone number to login
 PHONE_NUMBER = '+251904117514'  # Replace with your phone number
