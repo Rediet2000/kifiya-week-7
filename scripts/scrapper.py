@@ -15,7 +15,7 @@ logging.basicConfig(
 
 
 # Your API ID and API Hash
-API_ID = '26058239'
+API_ID = ' 26058239'
 API_HASH = '92a70c2dc39fe068edfebf8c9f7a0fbf'
 # Use your phone number to login
 PHONE_NUMBER = '+251904117514'
@@ -23,6 +23,9 @@ PHONE_NUMBER = '+251904117514'
 # List of channels to scrape
 channels = [
     'DoctorsET',
+    'lobelia4cosmetics',
+    'yetenaweg',
+    'EAHCI',
     # Add more channels as needed
 ]
 
